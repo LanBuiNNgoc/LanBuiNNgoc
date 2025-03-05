@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @LanBuiNguyenNgoc
+- 🇻🇳 I am from Vietnam
 - 👀 I’m interested in Data Analysis, Data Science, Data Modelling, Quantitative Modelling and Analysis
 - 🌱 I’m currently learning Machine Learning Technique and Models, Data Modelling Technique and Risk Models
 - 💞️ I’m looking for Summer 2025 Internship in Data Analyst, Data Science, Financial Analyst, Quantitative Modellinng Analyst
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I cannot taste Cilantro :(
+- ⚡ Fun fact: I cannot taste Cilantro :( and I cannot pronounce the word "Literature" properly :D
 
 <!---
 LanBuiNNgoc/LanBuiNNgoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
