@@ -2,7 +2,7 @@
 - 🇻🇳 I am from Vietnam
 - 👀 I’m interested in Data Analysis, Data Science, Data Modelling, Quantitative Modelling and Analysis
 - 🌱 I have experiences in Machine Learning and Models Research Lab, Data Modelling Technique and Risk Models
-- 💞️ You can view my resume in [here](https://drive.google.com/file/d/1ejVXVoXM_ZQNgvodruKv-uAiB51COkeY/view?usp=sharing) 
+- 💞️ You can view my resume in [here](https://drive.google.com/file/d/1ejVXVoXM_ZQNgvodruKv-uAiB51COkeY/view?usp=sharing) and my visulization artwork in [here](https://public.tableau.com/app/profile/lan.bui1926/vizzes)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I hate Cilantro :( and I cannot pronounce the word "Literature" properly :D
 
