@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LanBuiNguyenNgoc
+- 👋 Hi, I’m Lan
 - 🇻🇳 I am from Vietnam
 - 👀 I’m interested in Data Analysis, Data Science, Data Modelling, Quantitative Modelling and Analysis
 - 🌱 I have experiences in Machine Learning and Models Research Lab, Data Modelling Technique and Risk Models
